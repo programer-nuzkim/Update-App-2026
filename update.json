@@ -1,13 +1,13 @@
 {
-  "Version": "2.0",
+  "Version": "9.54",
   "Title": "UPDATE AVAILABLE",
-  "Subtitle": "New Version 2.0",
-  "Features": "Fixed Bugs,Enhanced Features",
+  "Subtitle": "New Version 9.54",
+  "Features": "Fixed Bugs,Enhanced Features,Risk Solved, Update System",
   "Description": "A mandatory new version is available with enhanced security, improved performance, and important fixes.",
   "BtnLater": "LATER",
   "BtnUpdate": "UPDATE",
   "Url": "https://dpmods.com",
-  "ForceUpdate": false,
+  "ForceUpdate": true,
   "Reminder": "2h",      
-  "BtnTimer": 0         
+  "BtnTimer": 1         
 }
