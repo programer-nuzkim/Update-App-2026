@@ -7,7 +7,7 @@
   "BtnLater": "LATER",
   "BtnUpdate": "UPDATE",
   "Url": "https://t.me/uranuscop_sollution",
-  "ForceUpdate": true,
+  "ForceUpdate": false,
   "Reminder": "2h",      
   "BtnTimer": 0         
 }
