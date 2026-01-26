@@ -6,7 +6,7 @@
   "contactButtonText": "CONTACT ME",
   "contactButtonUrl": "https://t.me/dp_mods",
 
-  "showAnnouncementButton": false,
+  "showAnnouncementButton": true,
   "announcementButtonText": "DOWNLOAD MOD",
   "announcementButtonUrl": "https://yourdownloadlink.com"
 }
