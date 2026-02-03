@@ -21,8 +21,8 @@
   "ForceUpdate": false,
   "forceUpdate": false,
   
-  "Reminder": "4h",
-  "BtnTimer": 5,
+  "Reminder": "6h",
+  "BtnTimer": 2,
   
   "notifyMessage": "Please update to continue using all features",
   "changelog": "Version 3.0.0\n• Enhanced security system\n• Improved app performance\n• Fixed critical bugs\n• New user interface\n• Battery optimization\n• Added new features\n• Stability improvements"
