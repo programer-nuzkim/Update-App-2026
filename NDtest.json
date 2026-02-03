@@ -18,8 +18,8 @@
   "Url": "https://dpmods.com/downloads/app_v3.0.0.apk",
   "apkUrl": "https://dpmods.com/downloads/app_v3.0.0.apk",
   
-  "ForceUpdate": true,
-  "forceUpdate": true,
+  "ForceUpdate": false,
+  "forceUpdate": false,
   
   "Reminder": "4h",
   "BtnTimer": 5,
