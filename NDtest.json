@@ -1,13 +1,29 @@
 {
-  "versionCode": 3,
-  "versionName": "3.3.6",
-  "title": "UPDATE AVAILABLE",
-  "description": "Bug fixes, new UI, and anti-ban improvements. Update now for enhanced security.",
-  "apkUrl": "https://www.dropbox.com/scl/fi/dyihqwfle5u9q2y8k70pk/Application_1.0.apk?rlkey=sdggeyzf35ks6yx2pz9qr1a2j&st=v74cbcnv&dl=1",
+  "Version": "3.0.0",
+  "versionCode": 30,
+  "versionName": "3.0.0",
+  
+  "Title": "UPDATE AVAILABLE",
+  "title": "New Version Available",
+  
+  "Subtitle": "New Version 3.0.0",
+  
+  "Features": "Enhanced Security,Bug Fixes,Improved Performance,New UI Design,Battery Optimization",
+  
+  "Description": "A major update is available with enhanced security features, improved performance, and important bug fixes. Update now for the best experience with new UI and better stability.",
+  
+  "BtnLater": "REMIND ME LATER",
+  "BtnUpdate": "UPDATE NOW",
+  
+  "Url": "https://dpmods.com/downloads/app_v3.0.0.apk",
+  "apkUrl": "https://dpmods.com/downloads/app_v3.0.0.apk",
+  
+  "ForceUpdate": true,
   "forceUpdate": true,
-  "btnTimer": 5,
-  "features": "Fixed Bugs,Enhanced Features,New UI Design,Anti-Ban Protection",
-  "btnLater": "LATER",
-  "btnUpdate": "UPDATE NOW",
-  "reminder": "2h"
+  
+  "Reminder": "4h",
+  "BtnTimer": 5,
+  
+  "notifyMessage": "Please update to continue using all features",
+  "changelog": "Version 3.0.0\n• Enhanced security system\n• Improved app performance\n• Fixed critical bugs\n• New user interface\n• Battery optimization\n• Added new features\n• Stability improvements"
 }
